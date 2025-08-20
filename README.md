@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisa Nur</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate student software developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Javascript,HTML,CSS**
 
