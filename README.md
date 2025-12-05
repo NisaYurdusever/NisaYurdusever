@@ -37,20 +37,6 @@
 </p>
 
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisaYurdusever&show_icons=true&theme=radical" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisaYurdusever&layout=compact&theme=radical" alt="langs" />
-</p>
- 
----
- 
----
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/nisa-nur-yurdusever-417215279/" target="blank">
