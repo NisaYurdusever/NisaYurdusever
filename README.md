@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NisaYurdusever">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1146&text=Hello!%20I'm%20Nisa%20Nur%20Yurdusever!%F0%9F%91%8B" alt="Hello! I&#39;m Nisa Nur Yurdusever!👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=1146&text=Hello!%20I'm%20Nisa%20Nur%20Yurdusever!%F0%9F%91%8B" alt="Hello! I&#39;m Nisa Nur Yurdusever!👋" />
   </a>
 </p>
 
